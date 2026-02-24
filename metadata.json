@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI",
+  "description": "An atmospheric, persistent AI assistant powered by Gemini and Supabase.",
+  "requestFramePermissions": []
+}
